@@ -1,0 +1,2 @@
+Proiect realizat în R în care am analizat factorii care influențează performanța școlară.
+Proiectl conține trei fișiere: Proiect Big Data.pdf, r code.R, student.csv. Fișierul Proiect Big Data.pdf reprezintă raportul realizat pe parcursul analizei, fișierul r code.R reprezintă codul din aplicația R studio în care am realizat proiectul iar fișierul student.csv reprezintă fișierul de date pe care l-am utilizat. 
